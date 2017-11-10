@@ -2984,7 +2984,7 @@
 				}
 
 				.spotlights > section > .image:before {
-					background: rgba(36, 41, 67, 0.9);
+					background: #4f5b66;
 					content: '';
 					display: block;
 					height: 100%;
@@ -3832,7 +3832,7 @@
 		-webkit-pointer-events: none;
 		-ms-pointer-events: none;
 		pointer-events: none;
-		background: rgba(36, 41, 67, 0.9);
+		background: #4f5b66;
 		box-shadow: none;
 		height: 100%;
 		left: 0;

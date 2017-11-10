@@ -3408,6 +3408,7 @@
 		-ms-align-items: center;
 		align-items: center;
 		background-image: url("../../images/igor-miske-207639.jpg");
+		background-size: cover;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;

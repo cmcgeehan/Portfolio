@@ -2946,9 +2946,15 @@
 			margin: 0 0 0.5em 0;
 		}
 
+
+/*INEFFICIENT IMPLEMENTATION*/
 /*Topics*/
-	.topic {
+	.topic1 {
 		background-color: #53e3fb;
+	}
+
+	.topic2 {
+		background-color: #F4791F;
 	}
 
 /* Spotlights */
@@ -3032,7 +3038,7 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #a7adba;
+				background-color: inherit;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {

@@ -2852,7 +2852,7 @@
 				filter: blur(0.5em);
 				opacity: 0;
 			}
-
+/*
 			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
 				width: 60%;
 			}
@@ -2880,6 +2880,7 @@
 			.tiles article:nth-child(6n):before {
 				background-color: #87c5a4;
 			}
+*/
 
 		@media screen and (max-width: 1280px) {
 
@@ -3418,8 +3419,6 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/igor-miske-207639.jpg");
-		background-size: cover;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;

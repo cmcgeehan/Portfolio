@@ -4007,7 +4007,6 @@
   margin-top: 20px;
   padding: 1em 0;
   list-style-type: none;
-  color:#343d46;
 }
 
 .timeline:before {
@@ -4068,7 +4067,7 @@
   background: rgb(248,248,248);
   padding: 6px 10px;
   border-radius: 5px;
-  color: #ffffff;
+  color:#343d46;
   font-weight: 600;
   text-align: left;
 }

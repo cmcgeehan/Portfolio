@@ -4030,6 +4030,7 @@
 	padding: 15px;
 	width: 100%;
 	background: #6fc3df;
+	left: -25px;
 }
 
 .timeline ul li div::before {

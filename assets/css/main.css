@@ -4026,7 +4026,7 @@
 	bottom: 0;
 	width: 400px;
 	padding: 15px;
-	background: #F45B69;
+	background: #6fc3df;
 }
 
 .timeline ul li div::before {
@@ -4039,11 +4039,12 @@
 }
 
 .timeline ul li:nth-child(odd) div {
-	left: 45px;
+	left: 0px;
+	text-align: right;
 }
 
 .timeline ul li:nth-child(odd) div::before{
 	left: -15px;
 	border-width: 8px 0 8px 16px;
-	border color: transparent transparent transparent #F45B69;
+	border color: transparent transparent transparent #6fc3df;
 	}

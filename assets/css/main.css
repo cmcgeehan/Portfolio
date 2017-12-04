@@ -4028,7 +4028,7 @@
 	position: relative;
 	bottom: 0;
 	padding: 15px;
-	width: 100%;
+	display:inline-block;
 	background: #6fc3df;
 	left: -25px;
 }

@@ -2784,7 +2784,7 @@
 
 			.tiles article .image {
 				display: none;
-				background-size: 10%;
+				background-size: 576px 510px;
 			}
 
 			.tiles article header {

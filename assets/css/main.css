@@ -2784,7 +2784,12 @@
 
 			.tiles article .image {
 				display: none;
-				background-size: contain;
+				background-position: center center;
+				background-repeat: no-repeat;
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
 			}
 
 			.tiles article header {
@@ -2978,7 +2983,7 @@
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #65737e;
+			background-color: #343d46;
 		}
 
 			.spotlights > section > .image {
@@ -3307,7 +3312,7 @@
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #4f5b66;
+				color: #343d46;
 			}
 
 			#header.alt.style4 .logo strong {
@@ -3540,11 +3545,11 @@
 		}
 
 		#banner.style3:after {
-			background-color: #4f5b66;
+			background-color: #343d46;
 		}
 
 		#banner.style4:after {
-			background-color: #e7b788;
+			background-color: none;
 		}
 
 		#banner.style5:after {

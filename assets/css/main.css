@@ -2784,7 +2784,7 @@
 
 			.tiles article .image {
 				display: none;
-				background-size: 576px 510px;
+				background-size: contain;
 			}
 
 			.tiles article header {
@@ -2983,7 +2983,7 @@
 
 			.spotlights > section > .image {
 				background-position: center center;
-				background-size: cover;
+				background-size: contain;
 				border-radius: 0;
 				display: block;
 				position: relative;
@@ -3307,7 +3307,7 @@
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #ec8d81;
+				color: #4f5b66;
 			}
 
 			#header.alt.style4 .logo strong {
@@ -3540,7 +3540,7 @@
 		}
 
 		#banner.style3:after {
-			background-color: #ec8d81;
+			background-color: #4f5b66;
 		}
 
 		#banner.style4:after {

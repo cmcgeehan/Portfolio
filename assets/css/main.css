@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background: #37a6cb;
+		background: #4f5b66;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -3435,6 +3435,7 @@
 		background-attachment: fixed;
 		background-position: center;
 		background-repeat: no-repeat;
+		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
 		height: 30vh;

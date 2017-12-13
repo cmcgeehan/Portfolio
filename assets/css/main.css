@@ -2998,7 +2998,7 @@
 				.spotlights > section > .image img {
 					border-radius: 0;
 					display: block;
-					/*width: 100%;*/
+					width: 100%;
 				}
 
 				.spotlights > section > .image:before {
@@ -3011,8 +3011,6 @@
 					position: absolute;
 					top: 0;
 					width: 100%;
-					background-position: center center;
-					background-size: cover;
 				}
 
 			.spotlights > section > .content {

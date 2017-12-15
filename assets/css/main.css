@@ -2741,6 +2741,7 @@
 /* Tiles */
 
 	.tiles {
+		color: #000000;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2773,6 +2774,7 @@
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: contain;
+			color: #000000;
 			cursor: default;
 			height: 40vh;
 			max-height: 40em;
@@ -3755,6 +3757,7 @@
 /* Footer */
 
 	#footer .copyright {
+		background-color: #343d46;
 		font-size: 0.8em;
 		list-style: none;
 		padding-left: 0;

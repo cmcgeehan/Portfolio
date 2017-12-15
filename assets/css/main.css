@@ -2987,7 +2987,11 @@
 		}
 
 			.spotlights > section > .image {
-				background-position: top right;
+				background-position: center center;
+				background-repeat: no-repeat;
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
 				background-size: cover;
 				border-radius: 0;
 				display: block;

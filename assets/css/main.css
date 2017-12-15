@@ -2741,7 +2741,6 @@
 /* Tiles */
 
 	.tiles {
-		color: #000000;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2774,7 +2773,6 @@
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: contain;
-			color: #000000;
 			cursor: default;
 			height: 40vh;
 			max-height: 40em;

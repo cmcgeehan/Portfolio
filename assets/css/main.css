@@ -3763,6 +3763,9 @@
 		}
 
 /* Footer */
+	#footer {
+		background-color: #8e9aa5;
+	}
 
 	#footer .copyright {
 		font-size: 0.8em;

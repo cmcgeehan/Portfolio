@@ -3708,7 +3708,7 @@
 				}
 
 					#contact > .inner > .split > *:before {
-						border-top: solid 1px rgba(212, 212, 255, 0.1);
+						border-top: solid 1px #4f5b66;
 						content: '';
 						display: block;
 						margin-left: -3em;

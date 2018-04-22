@@ -3053,7 +3053,7 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: inherit;
+				background-color: white;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {

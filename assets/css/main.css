@@ -2171,7 +2171,7 @@
 		}
 
 		.icon.alt:before {
-			background-color: #ffffff;
+			background-color: rgba(55, 166, 203, .5);
 			border-radius: 100%;
 			color: #242943;
 			display: inline-block;

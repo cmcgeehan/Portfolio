@@ -1678,7 +1678,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #000000;
+		color: rgba(55, 166, 203, .5);
 		text-decoration: none;
 	}
 
